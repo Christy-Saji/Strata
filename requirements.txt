@@ -1,0 +1,7 @@
+psycopg[binary]>=3.1,<4
+python-dotenv>=1.0,<2
+requests>=2.31,<3
+sentence-transformers>=3.0,<4
+groq>=0.9,<1
+pydantic>=2.5,<3
+pytest>=8.0,<9
